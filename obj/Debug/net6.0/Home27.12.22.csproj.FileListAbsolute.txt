@@ -1,0 +1,15 @@
+/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/bin/Debug/net6.0/Home27.12.22
+/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/bin/Debug/net6.0/Home27.12.22.deps.json
+/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/bin/Debug/net6.0/Home27.12.22.runtimeconfig.json
+/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/bin/Debug/net6.0/Home27.12.22.dll
+/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/bin/Debug/net6.0/Home27.12.22.pdb
+/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/obj/Debug/net6.0/Home27.12.22.csproj.AssemblyReference.cache
+/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/obj/Debug/net6.0/Home27.12.22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/obj/Debug/net6.0/Home27.12.22.AssemblyInfoInputs.cache
+/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/obj/Debug/net6.0/Home27.12.22.AssemblyInfo.cs
+/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/obj/Debug/net6.0/Home27.12.22.csproj.CoreCompileInputs.cache
+/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/obj/Debug/net6.0/Home27.12.22.dll
+/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/obj/Debug/net6.0/refint/Home27.12.22.dll
+/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/obj/Debug/net6.0/Home27.12.22.pdb
+/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/obj/Debug/net6.0/Home27.12.22.genruntimeconfig.cache
+/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/obj/Debug/net6.0/ref/Home27.12.22.dll
