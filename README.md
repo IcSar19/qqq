@@ -23,4 +23,4 @@
 
 ## Задание 4. 
 
-Ссылка на файл Program.cs [Программа](/Users/macupkoolga/Documents/Обучение IT/Git/Home27.12.22/Program.cs"Описание")
+Ссылка на файл Program.cs [Решение задачи](Program.cs)
